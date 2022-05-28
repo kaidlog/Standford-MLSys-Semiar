@@ -1,4 +1,4 @@
-baseURL = 'https://kaidlogtech.netlify.app/'
+baseURL = 'https://note-standford-mlsys.netlify.app/'
 languageCode = 'en-us'
 title = 'Standford MLSys Notes'
 theme = "charaka-hugo-theme"
