@@ -1,0 +1,23 @@
+baseURL = 'https://kaidlogtech.netlify.app/'
+languageCode = 'en-us'
+title = 'Standford MLSys Notes'
+theme = "charaka-hugo-theme"
+
+copyright = "&copy; <a href=\"https://github.com/kaidlog\"> Standford MLSys Notes </a> 2022"
+googleAnalytics = ""
+
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+  page = "/:slug/"
+
+[params]
+
+[params.highlight]
+  style = "zenburn"
+
+[[params.social]]
+  url = "about"
+  fa_icon = "fas fa-info" 
+
+
